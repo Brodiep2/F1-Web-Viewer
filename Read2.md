@@ -26,10 +26,13 @@ your phone must be on the same network (for example via WIFI) during the sync op
 2. Right click on the file you have created and open proprties 
 3. Select the sharing tab and click on share 
 4. Give your user Read/Write permissions then click share 
-You should now be able to copy images to the folder you have just created 
-![share0](https://user-images.githubusercontent.com/32289945/169647099-6d3265f8-402f-47dd-9748-d52b106069d8.jpg)
-![Share1](https://user-images.githubusercontent.com/32289945/169647102-8d0d48c5-a20c-42c5-957f-a1422965c0a9.jpg)
+  Now you should now be able to copy images to the folder you have just created 
+<!--![share0](https://user-images.githubusercontent.com/32289945/169647099-6d3265f8-402f-47dd-9748-d52b106069d8.jpg)
+
+ ![Share1](https://user-images.githubusercontent.com/32289945/169647102-8d0d48c5-a20c-42c5-957f-a1422965c0a9.jpg)--->
+
 ```
+
 ## Can I use a Microsoft account?
 You should be able to use your Microsoft account via the following syntax as username:
 ```
